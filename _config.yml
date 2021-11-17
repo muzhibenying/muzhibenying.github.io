@@ -19,15 +19,24 @@ favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/fa
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
+#navigation:
+ # - name: home
+ #   url: /
+ # - name: about
+ #   url: /about
+ # - name: blog
+ #   url: /archive
+  #- name: Publication
+  # url: /tags
 navigation:
-  - name: Home
-    url: /
-  - name: about
-    url: /about
-  - name: Blog
-    url: /archive
-  - name: Publication
-    url: /tags
+ - name: home
+   url: /
+ - name: about
+   url: /about
+ - name: blog
+   url: /blog
+ - name: publication
+   url: /publication 
 
 # Pagination
 paginate: 8

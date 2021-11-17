@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-zzq
+My cv is ![here](CV.pdf).
