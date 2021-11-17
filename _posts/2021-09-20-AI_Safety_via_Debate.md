@@ -1,4 +1,4 @@
-# Explain the Experiment in AI Safety via Debate
+## Explain the Experiment in AI Safety via Debate
 
 In the article [AI safety via debate](https://arxiv.org/pdf/1805.00899.pdf), Geoffery Irving et al. proposed a new method to help AI agents to learn the human preferences. Sometimes humans are unable to design a function to capture their intention and even judge which action conforms to their desire. However, if we have two agents debate with each other, the human may be able to judge which one gave the most true, useful information.
 
