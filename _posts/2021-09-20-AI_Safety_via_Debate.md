@@ -1,5 +1,3 @@
-## Explain the Experiment in AI Safety via Debate
-
 In the article [AI safety via debate](https://arxiv.org/pdf/1805.00899.pdf), Geoffery Irving et al. proposed a new method to help AI agents to learn the human preferences. Sometimes humans are unable to design a function to capture their intention and even judge which action conforms to their desire. However, if we have two agents debate with each other, the human may be able to judge which one gave the most true, useful information.
 
 In order to check whether this method can help us develop AI agents, they carried an experiment with MNIST dataset. In the experiment, a judger can only see 6 (or any other number) pixels in a MNIST image. Therefore, it can not discriminate what the number is in the image. FOrtunately, we have two agents which can see the image. One of the agents try to tell the judger what number it is and the other agent try to misleading the judger. They can reveal up to 6 pixel to the judger turn by turn. This method boost the judger's accuracy from 59.4% to 88.9%.
