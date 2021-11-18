@@ -24,9 +24,9 @@ navigation:
     url: /
   - name: about
     url: /about
-  - name: Publication
-    url: /archive
   - name: Blog
+    url: /archive
+  - name: Publication
     url: /tags
 
 # Pagination
